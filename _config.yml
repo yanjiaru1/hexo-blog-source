@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: Lazy Cat's Blog
+subtitle: ai全栈笔记 & 技术分享
+description: 记录ai全栈学习过程中的知识点与心得
+keywords: 前端,JavaScript,CSS,HTML
+author: Lazy Cat
+language: zh-CN
 timezone: ''
 
 # URL
@@ -96,11 +96,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: gal
+theme: hexo-theme-clean-dark
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/yanjiaru1/yan.github.io.git
+  repo: https://github.com/yanjiaru1/yanjiaru1.github.io.git
   branch: main

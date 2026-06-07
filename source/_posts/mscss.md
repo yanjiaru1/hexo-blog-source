@@ -1,7 +1,7 @@
 ---
 title: mscss
 date: 2026-03-26 16:55:05
-tags:css
+tags: [css]
 
 ---
 
